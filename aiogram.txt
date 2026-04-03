@@ -1,2 +1,2 @@
-aiogram
+requirements.txt
 google-generativeai
